@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Tutorial project
+# Tutorial Anki
 
 ![tutorial image](images/tutorial.png)
 
@@ -15,4 +15,5 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
+[X] 20200826 - pry
 ```

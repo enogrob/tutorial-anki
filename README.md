@@ -16,4 +16,5 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ## Topics
 ```
 [X] 20200826 - pry
+[~] 20200827 - mysql
 ```

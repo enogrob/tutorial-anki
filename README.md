@@ -17,4 +17,5 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ```
 [X] 20200826 - pry
 [~] 20200827 - mysql
+[x] 20200931 - erlang
 ```
